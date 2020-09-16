@@ -23,15 +23,15 @@
 }
 
 .tabs input#tab-2 {
-	left: 20%;
+	left: 15%;
 }
 
 .tabs input#tab-3 {
-	left: 40%;
+	left: 30%;
 }
 
 .tabs input#tab-4 {
-	left: 60%;
+	left: 45%;
 }
 
 .tabs label {
@@ -49,7 +49,7 @@
 	padding: 0 20px;
 	float: left;
 	display: block;
-	width: 20%;
+	width: 15%;
 	color: #385c5b;
 	top: 0px;
 	letter-spacing: 1px;
